@@ -1,0 +1,16 @@
+class: oven
+
+Attributes:
+On (boolean)
+timer (integer)
+tempature (integer)
+length (integer)
+width (integer)
+type ("string")
+
+Methods:
+
+ countdown (-1 to timer)
+ raiseHeat (+ 25 to tempature)
+ calculateOpening (length * width )
+ changeElement (update string)
