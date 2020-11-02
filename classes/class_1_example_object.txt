@@ -1,0 +1,17 @@
+class: Gasoven
+
+Attributes:
+On: false
+timer: 5
+tempature: 350
+length: 24
+width 36
+type "Gas"
+
+Methods:
+
+ countdown: timer = 4
+ raiseHeat: tempature = 375
+ calculateOpening: var opening +864
+ changeElement "Electric"
+ 
