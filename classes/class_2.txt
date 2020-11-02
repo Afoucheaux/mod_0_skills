@@ -1,0 +1,13 @@
+class: table
+
+Attributes:
+length (integer)
+level (boolean)
+color ("string")
+materials (array)
+
+Methods:
+addLeaf (length + 20)
+propLeg (level = true)
+paint (update color string)
+fix (add material to array)
