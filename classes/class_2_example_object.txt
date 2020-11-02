@@ -1,0 +1,13 @@
+class: dinningTable
+
+Attributes:
+length: 120
+level: false
+color: "Brown"
+materials: ["pastic", "wood"]
+
+Methods:
+addLeaf: length = 140
+propLeg: level = true
+paint:  color= "Grey"
+fix: materials = ["pastic", "wood", "Metal"]
