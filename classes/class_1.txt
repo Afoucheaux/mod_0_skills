@@ -1,4 +1,4 @@
-class: oven
+class: Oven
 
 Attributes:
 On (boolean)

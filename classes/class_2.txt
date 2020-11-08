@@ -1,8 +1,8 @@
-class: table
+class: Table
 
 Attributes:
 length (integer)
-level (boolean)
+is_level (boolean)
 color ("string")
 materials (array)
 
@@ -10,4 +10,4 @@ Methods:
 addLeaf (length + 20)
 propLeg (level = true)
 paint (update color string)
-fix (add material to array)
+addMaterialReinforcement (add material to array)

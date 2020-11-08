@@ -1,4 +1,4 @@
-class: Gasoven
+class: GasOven
 
 Attributes:
 On: false
@@ -14,4 +14,3 @@ Methods:
  raiseHeat: tempature = 375
  calculateOpening: var opening +864
  changeElement "Electric"
- 
